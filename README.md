@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Object-oriented representation of a web page, allows for manipulation.
+
 2. What is an event?
+
+Any sort of interaction with the DOM.
 
 3. What is an event listener?
 
+An object that calls a method when an event occurs within the DOM.
+
 4. Why would we convert a NodeList into an Array?
 
+To use all the array methods available, only .foreach works with NodeLists.
+
 5. What is a component?
+
+An organized sub-grouping of code.
 
 ### Git Set up
 
